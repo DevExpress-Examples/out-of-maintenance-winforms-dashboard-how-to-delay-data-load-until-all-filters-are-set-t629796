@@ -14,7 +14,7 @@ namespace CustomShowDataExample
         }
 
         #region #CustomizeDashboardTitle
-        private void DashboardDesigner_CustomizeDashboardTitle(object sender, DevExpress.DashboardWin.CustomizeDashboardTitleEventArgs e)
+        private void DashboardDesigner_CustomizeDashboardTitle(object sender, CustomizeDashboardTitleEventArgs e)
         {
             DevExpress.Data.IParameter showDataParameter = dashboardDesigner.Parameters.FirstOrDefault(p => p.Name == "ShowData");
             if (showDataParameter != null)
