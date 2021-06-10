@@ -11,6 +11,10 @@ The **Show Data** button is created in the [DashboardDesigner.CustomizeDashboa
 
 ![](/images/screenshot.png)
 
+## Documentation
+
+-[Title and Item Captions](https://docs.devexpress.com/Dashboard/400075)
+
 ## More Examples
 
 - [WinForms Dashboard - How to customize the dashboard title and dashboard item captions](https://github.com/DevExpress-Examples/winforms-dashboard-how-to-customize-the-dashboard-title-and-dashboard-item-captions-t630210)
