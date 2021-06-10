@@ -13,7 +13,7 @@ The **Show Data** button is created in the [DashboardDesigner.CustomizeDashboa
 
 ## Documentation
 
--[Title and Item Captions](https://docs.devexpress.com/Dashboard/400075)
+- [Title and Item Captions](https://docs.devexpress.com/Dashboard/400075)
 
 ## More Examples
 
