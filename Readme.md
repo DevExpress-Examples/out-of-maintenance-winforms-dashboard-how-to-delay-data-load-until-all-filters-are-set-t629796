@@ -4,7 +4,7 @@
 
 # WinForms Dashboard Designer - How to Delay Data Load Until All Filters are Set
 
-This example demonstrates how to load data in the Dashboard designer on demand when all required filters are set.
+This example demonstrates how to create a custom button in the dashboard title to load data on demand.
 
 Currently, the designer reloads data after any changes in filter elements. This behavior hinders the performance in case of large amounts of data.
 
