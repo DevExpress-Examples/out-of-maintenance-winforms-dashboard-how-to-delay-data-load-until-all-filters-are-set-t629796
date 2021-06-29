@@ -1,5 +1,8 @@
-# WinForms Dashboard Designer - How to Delay Data Load Until All Filters are Set
+*Files to look at*:
 
+* [DesignerForm1.cs](./CS/CustomShowDataExample/DesignerForm1.cs) (VB: [DesignerForm1.vb](./VB/CustomShowDataExample/DesignerForm1.vb))
+
+# WinForms Dashboard Designer - How to Delay Data Load Until All Filters are Set
 
 This example demonstrates how to load data in the Dashboard designer on demand when all required filters are set.
 
