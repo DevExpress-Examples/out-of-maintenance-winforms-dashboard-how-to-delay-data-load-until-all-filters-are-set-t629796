@@ -7,7 +7,7 @@
 
 * [DesignerForm1.cs](./CS/CustomShowDataExample/DesignerForm1.cs) (VB: [DesignerForm1.vb](./VB/CustomShowDataExample/DesignerForm1.vb))
 
-# WinForms Dashboard Designer - How to Delay Data Load Until All Filters are Set
+# Dashboard for WinForms - Delay Data Load Until All Filters are Set
 
 This example demonstrates how to create a custom button in the dashboard title to load data on demand.
 
@@ -22,6 +22,8 @@ The **Show Data** button is created in the [DashboardDesigner.CustomizeDashboa
 ## Documentation
 
 - [Title and Item Captions](https://docs.devexpress.com/Dashboard/400075)
+- [Dashboard Parameters](https://docs.devexpress.com/Dashboard/116918)
+- [Pass a Dashboard Parameter to a Filter String](https://docs.devexpress.com/Dashboard/117087)
 
 ## More Examples
 
